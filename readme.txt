@@ -2,7 +2,7 @@
               GAMEGENIUS - OYUN DÜNYASI BİLGİ YARIŞMASI
                            Sürüm: 1.0.0
            Geliştirici: Fatih Kıtır (Öğrenci No: 250710013)
-                         Tarih: 21.12.2025
+                         Tarih: 28.12.2025
 ========================================================================
 
 1. GENEL BİLGİ
